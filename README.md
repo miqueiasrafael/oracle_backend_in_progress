@@ -9,7 +9,7 @@ In this project there were many doubts and difficulties due to the double unders
 Graciously
 
 Miquéias Rafael 
-Author
+(Author)
 
 -----------------------------------------------------------
 To more information, please contact me.
